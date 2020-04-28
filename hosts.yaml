@@ -1,0 +1,590 @@
+---
+
+
+R1:
+    hostname: 192.168.31.101
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 1.1.1.1
+
+R2:
+    hostname: 192.168.31.102
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+
+R3:
+    hostname: 192.168.31.103
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R4:
+    hostname: 192.168.31.104
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R5:
+    hostname: 192.168.31.105
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R6:
+    hostname: 192.168.31.106
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R7:
+    hostname: 192.168.31.107
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R8:
+    hostname: 192.168.31.108
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R9:
+    hostname: 192.168.31.109
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R10:
+    hostname: 192.168.31.110
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R11:
+    hostname: 192.168.31.111
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R12:
+    hostname: 192.168.31.112
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R13:
+    hostname: 192.168.31.113
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R14:
+    hostname: 192.168.31.114
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R15:
+    hostname: 192.168.31.115
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R16:
+    hostname: 192.168.31.116
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R17:
+    hostname: 192.168.31.117
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R18:
+    hostname: 192.168.31.118
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R19:
+    hostname: 192.168.31.119
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R20:
+    hostname: 192.168.31.120
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R21:
+    hostname: 192.168.31.121
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R22:
+    hostname: 192.168.31.122
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R23:
+    hostname: 192.168.31.123
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R24:
+    hostname: 192.168.31.124
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R25:
+    hostname: 192.168.31.125
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R26:
+    hostname: 192.168.31.126
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R27:
+    hostname: 192.168.31.127
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+
+R29:
+    hostname: 192.168.31.129
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R30:
+    hostname: 192.168.31.130
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R31:
+    hostname: 192.168.31.131
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R32:
+    hostname: 192.168.31.132
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R33:
+    hostname: 192.168.31.133
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R34:
+    hostname: 192.168.31.134
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R35:
+    hostname: 192.168.31.135
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R36:
+    hostname: 192.168.31.136
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R37:
+    hostname: 192.168.31.137
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R38:
+    hostname: 192.168.31.138
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R39:
+    hostname: 192.168.31.139
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R40:
+    hostname: 192.168.31.140
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R41:
+    hostname: 192.168.31.141
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R42:
+    hostname: 192.168.31.142
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R43:
+    hostname: 192.168.31.143
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R44:
+    hostname: 192.168.31.144
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R45:
+    hostname: 192.168.31.145
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R46:
+    hostname: 192.168.31.146
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R47:
+    hostname: 192.168.31.147
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R48:
+    hostname: 192.168.31.148
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R49:
+    hostname: 192.168.31.149
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
+
+
+R50:
+    hostname: 192.168.31.150
+    platform: 'ios'
+    username: john
+    password: cisco
+    groups:
+        - cisco_group
+    data:
+        domain: ipvzero
+        loopback0: 2.2.2.2
